@@ -17,10 +17,10 @@
 url = "https://spring.io/
 
 ### 2. Install Dependencies from market place in Spring Tool Suite
-Spring Data Jpa
-MySQL Driver
-Spring Security
-Spring web
+Spring Data Jpa,
+MySQL Driver,
+Spring Security,
+Spring web,
 Thymeleaf
 
 
